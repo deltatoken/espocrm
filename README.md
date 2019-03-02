@@ -1,29 +1,21 @@
-## EspoCRM
+## NadlaniCRM
 
-<a href='http://www.espocrm.com'>EspoCRM is an Open Source CRM</a> (Customer Relationship Management) software that allows you to see, enter and evaluate all your company relationships regardless of the type. People, companies or opportunities - all in an easy and intuitive interface.
 
-It's a web application with a frontend designed as a single page application based on backbone.js and a REST API backend written in PHP.
 
-Download the latest release from our [website](http://www.espocrm.com).
+It's a web application with a frontend designed as a single page application based PHP.
+
+
 
 ### Requirements
 
 * PHP 7.1 or above (with pdo, json, gd, openssl, zip, imap, mbstring, curl extensions);
 * MySQL 5.5.3 or above, or MariaDB.
 
-For more information about server configuration see [this article](https://www.espocrm.com/documentation/administration/server-configuration/).
+
 
 ### Documentation
 
-Documentation for administrators, users and developers is available [here](https://www.espocrm.com/documentation/).
 
-### How to report a bug
-
-Create an issue [here](https://github.com/espocrm/espocrm/issues) or post on our [forum](http://forum.espocrm.com/forum/bug-reports).
-
-### How to install a stable version
-
-[Download](https://www.espocrm.com/download/) the latest version. See the [instructions](https://www.espocrm.com/documentation/administration/installation/) about installation.
 
 ### How to get started (for developers)
 
@@ -75,4 +67,4 @@ Json files will be created in build directory grouped by folders.
 
 ### License
 
-EspoCRM is published under the GNU GPLv3 [license](https://raw.githubusercontent.com/espocrm/espocrm/master/LICENSE.txt).
+NadlaniCRM is published under the GNU GPLv3 [license](https://raw.githubusercontent.com/espocrm/espocrm/master/LICENSE.txt).
